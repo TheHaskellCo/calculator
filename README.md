@@ -1,4 +1,6 @@
 # calculator
 add numbers
 
-this is some really cool code
+this is some really neat code
+
+zoom feature
